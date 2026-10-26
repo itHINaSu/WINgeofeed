@@ -1,4 +1,4 @@
-prefix/ip,country_code,region_code,city,postal
+#prefix/ip,country_code,region_code,city,postal
 66.43.219.64/28,US,US-IA,Denison,51442
 66.43.245.144/30,US,US-IA,Carroll,51401
 67.55.169.0/24,US,US-IA,Macedonia,51549
